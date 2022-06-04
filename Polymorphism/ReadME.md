@@ -4,8 +4,8 @@
 
 ## Virtual
 
-*Represents that a property or method can be crushed optionally.
+* Represents that a property or method can be crushed optionally.
 
 ## Override
 
-*It provides crushing of virtual defined objects.
+* It provides crushing of virtual defined objects.
