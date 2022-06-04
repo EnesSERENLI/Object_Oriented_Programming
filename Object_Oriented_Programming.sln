@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{CCF65404-0975-47CF-971E-8086D715D1C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static_Classes", "Static_Classes\Static_Classes.csproj", "{49D070B9-6D8C-4F9D-BECE-9B9948D318A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{CCF65404-0975-47CF-971E-8086D715D1C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCF65404-0975-47CF-971E-8086D715D1C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCF65404-0975-47CF-971E-8086D715D1C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49D070B9-6D8C-4F9D-BECE-9B9948D318A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49D070B9-6D8C-4F9D-BECE-9B9948D318A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49D070B9-6D8C-4F9D-BECE-9B9948D318A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49D070B9-6D8C-4F9D-BECE-9B9948D318A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
