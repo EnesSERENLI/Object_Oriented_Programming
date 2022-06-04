@@ -1,4 +1,4 @@
-# Polymorphism
+## Polymorphism
 
 * It is the different behavior of the property or actions in the base class in the inherited class.
 
