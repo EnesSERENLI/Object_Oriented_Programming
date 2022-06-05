@@ -5,4 +5,4 @@
 * It is mandatory to use the properties or methods defined in it.
 * They bring talent to the classes
 * An instance cannot be taken from the class defined as Interface.
-* Interfaces cannot have access tokens
+* A class can inherit multiple interfaces. Likewise, an interface can be inherited from more than one class.
