@@ -14,7 +14,8 @@
 ```
 public class Baby
 {
-public Baby () //Constructor I
+
+public Baby () //Constructor I  (Constructor snippet => ctor+tab+tab)
 {
 BirthDate = DateTime.Now;
 }
@@ -32,7 +33,7 @@ MotherName = motherName;
 FatherName = fatherName;
 }
 
-//Property
+//Property snippet => prop+tab+tab
 public string MotherName { get; set; }
 public string FatherName { get; set; }
 public DateTime BirthDate { get; set; }
